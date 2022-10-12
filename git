@@ -1,0 +1,36 @@
+[33mcommit 5255e75d8d8060221f924814e1865a0c5207ec99[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7cb9073 e54feb0
+Author: bintoroadhi <bintoroadhisetiawan@gmail.com>
+Date:   Thu Jun 30 11:18:53 2022 +0700
+
+    perbaiki konflict
+
+[33mcommit 7cb9073cabe61cc2b6398212ba12b349868a12b8[m
+Author: bintoroadhi <bintoroadhisetiawan@gmail.com>
+Date:   Thu Jun 30 10:20:15 2022 +0700
+
+    mengganti login.html di master
+
+[33mcommit e54feb008e5b7255f4dc57cec1ea10cab0d5073b[m[33m ([m[1;32mlogin[m[33m)[m
+Author: bintoroadhi <bintoroadhisetiawan@gmail.com>
+Date:   Thu Jun 30 10:10:17 2022 +0700
+
+    ubah login.html
+
+[33mcommit 78e1f660d4bac6701e9399d7d2f35841fa51b095[m
+Author: bintoroadhi <bintoroadhisetiawan@gmail.com>
+Date:   Thu Jun 30 09:36:12 2022 +0700
+
+    file login.html masuk ke halaman_login
+
+[33mcommit 8108183d055994d8e158012a1e0ac679ba9805b7[m
+Author: bintoroadhi <bintoroadhisetiawan@gmail.com>
+Date:   Tue Jun 28 11:41:51 2022 +0700
+
+    menambahkan isi index.html
+
+[33mcommit 909cda0347fec79837f6ad7a539dd0d4046f9da3[m
+Author: bintoroadhi <bintoroadhisetiawan@gmail.com>
+Date:   Tue Jun 28 11:31:27 2022 +0700
+
+    commit pertama
